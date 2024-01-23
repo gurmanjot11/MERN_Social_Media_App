@@ -1,2 +1,4 @@
 # Social_Media_App
-# this is how to git add and commit
+Used JavaScript with a MERN framework to develop a full stack Social Media webpage.
+
+*Repository in progress*
